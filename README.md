@@ -67,13 +67,6 @@ This project investigates how different ambient temperatures affect human cognit
 
 ---
 
-## 📂 Repository Structure
-
-├── Notebook.ipynb # Data preprocessing, EDA, modeling code ├── Project Report.pdf # Full academic report (with figures, discussion, references) └── README.md # Project documentation (this file)
-
-
----
-
 ## 🧠 Conclusion
 
 This study confirms that ambient temperature impacts cognitive performance. EEG data, combined with robust cleaning and modeling, revealed that colder temperatures reduce brain activity as measured by the Stroop test. XGBoost emerged as the most reliable model with 88.24% accuracy, and our methodology can serve as a foundation for future research on environmental impacts on cognition.
@@ -86,4 +79,3 @@ Key references and data sources are listed in `Project Report.pdf`.
 
 ---
 
-© 2024 UBC Integrated Engineering Team | MANU 465 Final Project
